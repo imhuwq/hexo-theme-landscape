@@ -8,5 +8,8 @@
     "theme",
     "landscape"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hexo-renderer-markdown-it-plus": "^1.0.6"
+  }
 }

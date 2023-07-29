@@ -45,12 +45,27 @@ show_count: false
 recent_posts_limits: 5
 
 # Miscellaneous
-google_analytics:
+google_analytics: 
 gauges_analytics:
 favicon: /favicon.png
 twitter:
 fb_admins:
 fb_app_id:
+
+# latex
+# npm un hexo-renderer-marked --save
+# npm i hexo-renderer-markdown-it-plus --save
+markdown_it_plus:
+  highlight: true
+  html: true
+  xhtmlOut: true
+  breaks: true
+  langPrefix:
+  linkify: true
+  typographer:
+  quotes: “”‘’
+  pre_class: highlight
+
 
 # valine comment system. https://valine.js.org
 valine:
