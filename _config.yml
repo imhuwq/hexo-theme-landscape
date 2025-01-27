@@ -80,5 +80,3 @@ valine:
   placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
   guest_info: nick,mail,link #valine comment header info
 
-gitalk:
-  enable:  true
